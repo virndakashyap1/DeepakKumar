@@ -1,0 +1,8 @@
+{
+  "name": "AI Madhur Sangeet",
+  "description": "AI Clone Music App to generate soulful songs, voice clone studio, male/female/duet singing, Indian & modern instruments, and full audio playback with visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
